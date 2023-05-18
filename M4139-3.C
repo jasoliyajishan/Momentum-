@@ -1,9 +1,9 @@
 #include<stdio.h>
-#include<conio.h>
+
 main()
 {
 int a,b,c,d;
-clrscr();
+
 printf("enter value of a");
 scanf("%d",&a);
 printf("enter value of b");
@@ -65,5 +65,5 @@ else
 
 }
 
-getch();
+
 }
