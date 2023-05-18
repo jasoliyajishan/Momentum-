@@ -1,9 +1,9 @@
 #include<stdio.h>
-#include<conio.h>
+
 main()
 {
 char day;
-clrscr();
+
 printf("\nm for monday");
 printf("\nt for tuesday");
 printf("\nw for wednesday");
@@ -46,7 +46,7 @@ default:
 
 
 
-getch();
+
 
 
 
